@@ -1,12 +1,17 @@
 body{
-	background-color:#e3e3e3;
-	font-family: sans-serif;
-         width:600px;
-         margin:auto;
+	font-family: serif;
+	font-size: 30px;
 }
-p{
-	border: solid white;
-
-	text-align: center;
-        margin -left:0;
+li{
+	display:inline;
+	padding-right: 10px;
 }
+ul a{
+	 text-decoration:none;
+}
+ul a:hover{
+	text-decoration: underline;
+	font-size: 50px;
+	color: red;
+}
+	
